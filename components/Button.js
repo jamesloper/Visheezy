@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
-import { TouchableOpacity, Text, View } from 'react-native';
+import React from 'react';
+import { Text, TouchableOpacity } from 'react-native';
 
 export default (props) => {
-	var buttonStyle = {color:props.color || '#fff'};
-	
+	let buttonStyle = {color: props.color || '#fff'};
+
 	return (
 		<TouchableOpacity onPress={props.onPress}>
 			<Text style={[style.title, buttonStyle]}>{props.title}</Text>
@@ -11,6 +11,6 @@ export default (props) => {
 	);
 };
 
-var style = {
-	title: {fontSize:16, color:'#fff', padding:10, textAlign:'center'},
+const style = {
+	title: {fontSize: 16, color: '#fff', padding: 10, textAlign: 'center'},
 };

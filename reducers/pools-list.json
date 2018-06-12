@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ethermine",
+    "name": "Ethermine",
+    "apiBase": "https://api.ethermine.com",
+    "apiStats": "/miner/:wallet/dashboard"
+  },
+  {
+    "id": "nicehash",
+    "name": "Nicehash",
+    "apiBase": "https://api.nicehash.com"
+  }
+]
