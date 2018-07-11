@@ -11,17 +11,9 @@ import { addAccount, refreshAccounts } from '../actions/account-actions';
 import getCurrentStats from '../util/getCurrentStats';
 
 class Accounts extends Component {
-	static navigationOptions = ({navigation}) => ({
-		headerRight: (
-			<ActionButton navigation={navigation} icon="add"/>
-		),
-	});
-
 	constructor(props) {
 		super(props);
-		this.state = {
-			'refreshing': false,
-		};
+		this.state = {'refreshing': false};
 	}
 
 	componentWillMount() {

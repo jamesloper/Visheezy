@@ -1,25 +1,22 @@
 import React from 'react';
-import { TabNavigator, TabBarTop } from 'react-navigation';
+import { createMaterialTopTabNavigator } from 'react-navigation';
 
 import Miners from './Miners';
 import Accounts from './Accounts';
+import ActionButton from "../components/ActionButton";
 
-const Tabs = TabNavigator({
+const Tabs = createMaterialTopTabNavigator({
 	Accounts: {screen: Accounts},
 	Miners: {screen: Miners},
 }, {
-	navigationOptions: {
-		title: null,
-	},
-	tabBarComponent: TabBarTop,
-	tabBarPosition: 'top',
-	swipeEnabled: true,
 	tabBarOptions: {
 		style: {backgroundColor: '#222', elevation: 0},
 		indicatorStyle: {backgroundColor: '#ff1744'},
 	},
-	lazy: false,
 });
 
+Tabs.navigationOptions = {
+	headerRight: <ActionButton icon="add"/>,
+};
 
 export default Tabs;

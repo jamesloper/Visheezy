@@ -1,16 +1,15 @@
 import React from 'react';
-import { TabNavigator, TabBarTop } from 'react-navigation';
+import { createMaterialTopTabNavigator } from 'react-navigation';
 
 import Ethermine from './Ethermine';
-//import Nicehash from './Ethermine';
+import ComingSoon from './ComingSoon';
 
-const AddAccount = TabNavigator({
+const AddAccount = createMaterialTopTabNavigator({
 	Ethermine: {screen: Ethermine},
-	// Ethpool: {screen: Ethermine},
+	Other: {screen: ComingSoon},
 	// Nicehash: {screen: Ethermine},
 	// Nanopool: {screen: Ethermine},
 }, {
-	tabBarComponent: TabBarTop,
 	tabBarPosition: 'top',
 	navigationOptions: {},
 	tabBarOptions: {

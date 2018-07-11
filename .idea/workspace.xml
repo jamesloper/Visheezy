@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94d12fae-7218-402d-b131-e02d27e9382e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/screens/AddAccount/ComingSoon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ActionButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ActionButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Placeholder.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Placeholder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Accounts.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Accounts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/AddAccount/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/AddAccount/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Tabs.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>f</find>
+      <find>spacer</find>
+      <find>$</find>
+      <find>formatUsd</find>
+      <find>scroler</find>
+      <find>reportedHashrate</find>
+      <find>TouchableNative</find>
+      <find>FloatingActionButton</find>
+      <find>react-native-material-ripple</find>
+      <find>useForeground</find>
+      <find>TouchableNativeFeedback.Ripple</find>
+      <find>TouchableHighlight</find>
+      <find>MainScreen</find>
+      <find>lastSeenFriendly</find>
+      <find>console</find>
+      <find>Hour</find>
+      <find>ToastA</find>
+      <find>removeAccount</find>
+      <find>actions</find>
+      <find>./types</find>
+      <find>types</find>
+      <find>addAccount</find>
+      <find>fetch</find>
+      <find>getC</find>
+      <find>refreshAccount</find>
+      <find>accounts.map(account =&gt; getCurrentStats(account.wallet))</find>
+      <find>map</find>
+      <find>TabBarTop</find>
+      <find>TabNavigator</find>
+      <find>reset</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Alert.alert</replace>
+      <replace>&quot;</replace>
+      <replace>'</replace>
+      <replace>currentHashRate</replace>
+      <replace>HashRate</replace>
+      <replace>formatNumber</replace>
+      <replace>ashRate</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/screens/Sidebar.js" />
+        <option value="$PROJECT_DIR$/components/DrawerItem.js" />
+        <option value="$PROJECT_DIR$/components/Sidebar.js" />
+        <option value="$PROJECT_DIR$/constants.js" />
+        <option value="$PROJECT_DIR$/db.js" />
+        <option value="$PROJECT_DIR$/reducers.js" />
+        <option value="$PROJECT_DIR$/screens/Setup.js" />
+        <option value="$PROJECT_DIR$/reducers/wallets-reducer.js" />
+        <option value="$PROJECT_DIR$/actions.js" />
+        <option value="$PROJECT_DIR$/actions/miner-actions.js" />
+        <option value="$PROJECT_DIR$/screens/Settings.js" />
+        <option value="$PROJECT_DIR$/screens/Workers.js" />
+        <option value="$PROJECT_DIR$/screens/Settings/Settings.js" />
+        <option value="$PROJECT_DIR$/components/FloatingActionButtin.js" />
+        <option value="$PROJECT_DIR$/util/uuid.js" />
+        <option value="$PROJECT_DIR$/util/randomId.js" />
+        <option value="$PROJECT_DIR$/reducers/index.js" />
+        <option value="$PROJECT_DIR$/reducers/pools-reducer.js" />
+        <option value="$PROJECT_DIR$/screens/Settings/AddAccount.js" />
+        <option value="$PROJECT_DIR$/screens/Settings/index.js" />
+        <option value="$PROJECT_DIR$/components/MenuButton.js" />
+        <option value="$PROJECT_DIR$/screens/Status.js" />
+        <option value="$PROJECT_DIR$/screens/AddAccount.js" />
+        <option value="$PROJECT_DIR$/screens/AddAccount/AddAccount.js" />
+        <option value="$PROJECT_DIR$/reducers/pools-list.json" />
+        <option value="$PROJECT_DIR$/util/formatUsd.js" />
+        <option value="$PROJECT_DIR$/store/index.js" />
+        <option value="$PROJECT_DIR$/components/Touchable.ios.js" />
+        <option value="$PROJECT_DIR$/components/Touchable.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/components/FloatingActionButton.js" />
+        <option value="$PROJECT_DIR$/components/Chart.js" />
+        <option value="$PROJECT_DIR$/screens/AccountDetails.js" />
+        <option value="$PROJECT_DIR$/actions/types.js" />
+        <option value="$PROJECT_DIR$/screens/MainScreen.js" />
+        <option value="$PROJECT_DIR$/actions/index.js" />
+        <option value="$PROJECT_DIR$/util/getCurrentStats.js" />
+        <option value="$PROJECT_DIR$/screens/AddAccount/Ethermine.js" />
+        <option value="$PROJECT_DIR$/actions/account-actions.js" />
+        <option value="$PROJECT_DIR$/reducers/accounts-reducer.js" />
+        <option value="$PROJECT_DIR$/screens/Miners.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/screens/Main.js" />
+        <option value="$PROJECT_DIR$/screens/AddAccount/index.js" />
+        <option value="$PROJECT_DIR$/screens/AddAccount/ComingSoon.js" />
+        <option value="$PROJECT_DIR$/components/Placeholder.js" />
+        <option value="$PROJECT_DIR$/screens/Tabs.js" />
+        <option value="$PROJECT_DIR$/screens/Accounts.js" />
+        <option value="$PROJECT_DIR$/components/ActionButton.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="visheezy" type="cbb8eebc:String" user="visheezy" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="visheezy" type="cbb8eebc:String" user="visheezy" />
+              <item name="screens" type="cbb8eebc:String" user="screens" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="visheezy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visheezy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visheezy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visheezy" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="place&#9;FILE&#9;file:///Users/james/visheezy/components/Placeholder.js&#10;main&#9;FILE&#9;file:///Users/james/visheezy/screens/Main.js&#10;ethermine&#9;FILE&#9;file:///Users/james/visheezy/screens/AddAccount/Ethermine.js&#10;addacc&#9;FILE&#9;file:///Users/james/visheezy/screens/AddAccount&#10;actionbutton&#9;FILE&#9;file:///Users/james/visheezy/components/FloatingActionButton.js&#10;touchable&#9;FILE&#9;file:///Users/james/visheezy/components/Touchable.js&#10;main.js&#9;FILE&#9;file:///Users/james/visheezy/screens/Main.js&#10;acc&#9;FILE&#9;file:///Users/james/visheezy/screens/Accounts.js&#10;addAcc&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screens/AddAccount" />
+      <recent name="$PROJECT_DIR$/screens" />
+      <recent name="$PROJECT_DIR$/screens/Settings" />
+      <recent name="$PROJECT_DIR$/constants" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screens/AddAccount" />
+      <recent name="$PROJECT_DIR$/screens/Settings" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d12fae-7218-402d-b131-e02d27e9382e" name="Default" comment="" />
+      <created>1503342760127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503342760127</updated>
+      <workItem from="1503342761522" duration="683000" />
+      <workItem from="1503874846871" duration="2965000" />
+      <workItem from="1504050953267" duration="6060000" />
+      <workItem from="1507347656932" duration="2742000" />
+      <workItem from="1507566054058" duration="12000" />
+      <workItem from="1523378765680" duration="3942000" />
+      <workItem from="1523661303609" duration="29757000" />
+      <workItem from="1523998545394" duration="2629000" />
+      <workItem from="1524002478765" duration="556000" />
+      <workItem from="1526694501036" duration="640000" />
+      <workItem from="1526908650748" duration="57000" />
+      <workItem from="1528507711689" duration="8249000" />
+      <workItem from="1528907495682" duration="20000" />
+      <workItem from="1530227060433" duration="1087000" />
+      <workItem from="1530232192289" duration="1788000" />
+      <workItem from="1531271321525" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61203000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="734" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.184375" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26666668" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/screens/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

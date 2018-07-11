@@ -15,7 +15,7 @@ const Placeholder = (props) => {
 };
 
 const style = StyleSheet.create({
-	view: {flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#111'},
+	view: {flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#111', paddingBottom: 16},
 	title: {color: '#fff', fontWeight: 'bold'},
 	description: {color: '#fff'},
 });

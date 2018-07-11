@@ -1,11 +1,11 @@
-import { StackNavigator } from 'react-navigation';
-import CardStackStyleInterpolator from 'react-navigation/src/views/CardStack/CardStackStyleInterpolator';
+import { createStackNavigator } from 'react-navigation';
+// import CardStackStyleInterpolator from 'react-navigation/src/views/CardStack/CardStackStyleInterpolator';
 
 import Tabs from '../screens/Tabs';
 import AddAccount from './AddAccount';
 import AccountDetails from './AccountDetails';
 
-export default StackNavigator({
+export default createStackNavigator({
 	Tabs: {screen: Tabs},
 	AddAccount: {screen: AddAccount},
 	AccountDetails: {screen: AccountDetails},
@@ -20,7 +20,7 @@ export default StackNavigator({
 		},
 		headerTitleStyle: {
 			color: '#fff',
-			fontFamily: 'monospace',
+			// fontFamily: 'monospace',
 			fontWeight: 'bold',
 			fontSize: 16,
 		},
@@ -31,9 +31,9 @@ export default StackNavigator({
 		headerBackTitle: null,
 	},
 	headerMode: 'screen',
-	transitionConfig: () => ({
-		screenInterpolator: sceneProps => {
-			return CardStackStyleInterpolator.forHorizontal(sceneProps);
-		},
-	}),
+	// transitionConfig: () => ({
+	// 	screenInterpolator: sceneProps => {
+	// 		return CardStackStyleInterpolator.forHorizontal(sceneProps);
+	// 	},
+	// }),
 });
