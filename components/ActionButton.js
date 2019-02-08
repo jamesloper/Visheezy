@@ -4,15 +4,13 @@ import { withNavigation } from 'react-navigation';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 const ActionButton = (props) => {
-	const {navigation, icon} = props;
-
-	const test = () => console.log('test!');
+	const {navigation, icon, navigateTo} = props;
 
 	return (
 		<View style={style.container}>
 			<TouchableOpacity
 				style={style.button}
-				onPress={() => navigation.getParam('onPress', test)}
+				onPress={() => navigation.navigate(navigateTo)}
 				children={<Icon name={icon} size={24} color="#fff"/>}
 			/>
 		</View>

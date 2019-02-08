@@ -16,7 +16,7 @@ const Tabs = createMaterialTopTabNavigator({
 });
 
 Tabs.navigationOptions = {
-	headerRight: <ActionButton icon="add"/>,
+	headerRight: <ActionButton icon="add" navigateTo="AddAccount"/>,
 };
 
 export default Tabs;

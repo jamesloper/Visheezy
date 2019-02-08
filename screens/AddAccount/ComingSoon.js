@@ -5,7 +5,7 @@ class ComingSoon extends Component {
 	render() {
 		return (
 			<Placeholder
-				icon="cog"
+				icon="settings"
 				title="Coming Soon"
 				description="Support for Nicehash, Ethpool, etc are coming."
 			/>

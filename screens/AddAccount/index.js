@@ -1,17 +1,18 @@
 import React from 'react';
 import { createMaterialTopTabNavigator } from 'react-navigation';
-
 import Ethermine from './Ethermine';
 import ComingSoon from './ComingSoon';
 
 const AddAccount = createMaterialTopTabNavigator({
-	Ethermine: {screen: Ethermine},
+	Ethermine: Ethermine,
 	Other: {screen: ComingSoon},
 	// Nicehash: {screen: Ethermine},
 	// Nanopool: {screen: Ethermine},
 }, {
 	tabBarPosition: 'top',
-	navigationOptions: {},
+	navigationOptions: {
+		title: 'Add Account',
+	},
 	tabBarOptions: {
 		style: {backgroundColor: '#222', elevation: 0},
 		tabStyle: {width: 120},
@@ -20,9 +21,5 @@ const AddAccount = createMaterialTopTabNavigator({
 	},
 	lazy: false,
 });
-
-AddAccount.navigationOptions = {
-	title: 'Add Account',
-};
 
 export default AddAccount;

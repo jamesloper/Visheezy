@@ -8,22 +8,14 @@ import Button from '../../components/Button';
 import ActionButton from '../../components/ActionButton';
 
 class Ethermine extends Component {
-	static navigationOptions = ({navigation}) => ({
-		headerRight: (
-			<ActionButton
-				navigation={navigation}
-				icon="check"
-			/>
-		),
+	static defaultNavigationOptions = ({navigation}) => ({
+		headerRight: <ActionButton navigation={navigation} icon="check"/>,
 	});
 
-	constructor(props) {
-		super(props);
-		this.state = {'wallet': this.props.wallet};
-	}
+	state = {'wallet': this.props.wallet};
 
 	componentDidMount() {
-		this.props.navigation.setParams({onPress: this.submit});
+		this.props.navigation.setParams({'onPress': this.submit});
 	}
 
 	render() {

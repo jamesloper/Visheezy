@@ -16,8 +16,8 @@ const Placeholder = (props) => {
 
 const style = StyleSheet.create({
 	view: {flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#111', paddingBottom: 16},
-	title: {color: '#fff', fontWeight: 'bold'},
-	description: {color: '#fff'},
+	title: {color: '#fff', fontWeight: 'bold', fontSize: 16, marginTop: 10, marginBottom: 5},
+	description: {color: '#ccc'},
 });
 
 export default Placeholder;
