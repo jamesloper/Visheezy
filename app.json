@@ -26,6 +26,7 @@
     },
     "android": {
       "package": "com.jamesloper.visheezy"
-    }
+    },
+    "githubUrl": "https://github.com/jamesloper/visheezy"
   }
 }
